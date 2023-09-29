@@ -1,0 +1,7 @@
+input, select, label, textarea {
+    display: block;
+}
+
+.inline input {
+    display: inline-block;
+}
